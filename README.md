@@ -1,0 +1,2 @@
+# novamane-core
+NC Site
